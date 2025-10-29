@@ -1,0 +1,5 @@
+
+{
+  "name": "React CPU-Z Clone",
+  "description": "A web-based clone of the popular CPU-Z utility, built with React and styled with Tailwind CSS to emulate Material Design. It displays mock system information for CPU, Mainboard, Memory, and Graphics."
+}
